@@ -1,0 +1,37 @@
+.test {
+  border: 2px solid;
+}
+
+.test2 {
+  border: 2px solid;
+}
+
+.recipeitems {
+  border: 2px solid;
+  height: 200px;
+  display: inline-flex;
+  background: url(img/list-bg.png);
+}
+
+.recipelist, .content, .chocopizza, .socialmedia, .logo {
+  border: 2px solid;
+}
+
+.chocopizza {
+  align-items: center;
+  width: 80%;
+  height: auto;
+}
+
+img.displayed {
+  display: block;
+  margin: auto;
+}
+
+.logo {
+  max-width: 250px;
+}
+
+.socialmedia {
+  max-width: 230px;
+}
