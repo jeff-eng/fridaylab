@@ -35,3 +35,23 @@ img.displayed {
 .socialmedia {
   max-width: 230px;
 }
+
+.sharerecipelink {
+  background-color: red;
+  color: white;
+  width: 150px;
+}
+
+.author {
+  display: flex;
+
+}
+
+.bio {
+  display: block;
+}
+
+header {
+  display:flex;
+  justify-content: space-between;
+}
